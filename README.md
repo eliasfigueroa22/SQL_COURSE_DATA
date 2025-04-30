@@ -2,10 +2,17 @@
 Welcome to my first project in my SQL portfolio, in this project I will be testing my SQL skills by filtering data that interests me about remote Data Analyst jobs abroad and the most in-demand and best-paid skills in the market, we will also briefly look at some data on jobs that interest me personally in countries of interest to me and see if this affects the type of skills that are in demand in the market for Data Analysts
 
 Check out my SQL queries here: [project_sql folder](/project_sql/)
+
+
+
+
+
+
 # Background
+
 The reason why I did this project was to practice my SQL skills and at the same time know which skills would be most useful to me to be a competitive Data Analyst, thus taking into account the most in-demand and best-paid skills in the market.
 
-The data for this analysis is from Luke Barousse’s  [SQL Course](/https://www.lukebarousse.com/sql). This data includes details on job titles, salaries, locations, and required skills. 
+The data for this analysis is from Luke Barousse’s  [SQL Course](https://lukebarousse.com/sql). This data includes details on job titles, salaries, locations, and required skills. 
 
 
 ### The questions I wanted to answer through my SQL queries were:
